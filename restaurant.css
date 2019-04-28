@@ -1,0 +1,18 @@
+#header{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+form{
+    text-align: center;
+}
+footer{
+    text-align: center;
+}
+td{
+    text-align: center;
+}
+#menu{
+    background-color: brown;
+}
